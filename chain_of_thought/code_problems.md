@@ -1,11 +1,10 @@
 # 🔁 Prompt Pattern: Chain of Thought (CoT)
 
-## 🧪 Use Case: Solving Word Problems
+## 🧪 Use Case: Solving Coding Problems
 
 ## Case 1 (Debugging a Python function)
 
 ### 📝 Prompt Used
-
 
 You are a helpful assistant that solves coding problems step by step.
 
@@ -86,9 +85,9 @@ Step 5: The larger of the two products is 45.
 
 ---
 
-## Case 3
+## Case 3 (Understanding recursion in a factorial function)
 
-### 📝 Prompt Used (Understanding recursion in a factorial function)
+### 📝 Prompt Used
 
 You are a programming tutor that explains code step by step.
 

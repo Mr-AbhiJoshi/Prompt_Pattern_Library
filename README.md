@@ -22,21 +22,37 @@ This repository is part of my initiative to become **job-ready in Prompt Enginee
 
 ## 📚 Structure
 
-📁 chain-of-thought/
+📁 chain_of_thought/
 
-├── code-problems.md
+├── code_problems.md
 
 ├── definition.md
 
-├── word-problems.md
+├── logic_problems.md
 
-📁 few-shot/
-
-├── blog-title-generator.md
+├── word_problems.md
 
 📁 react/
 
-├── document-analysis.md
+├── data_analysis_problems.md
+
+├── definition.md
+
+├── interactive_queries.md
+
+📁 shot_prompting/
+
+├── 📁 few_shot/
+
+    ├── definition.md
+
+├── 📁 one_shot/
+
+    ├── definition.md
+
+├── 📁 zero_shot/
+
+    ├── definition.md
 
 ...more coming soon!
 
