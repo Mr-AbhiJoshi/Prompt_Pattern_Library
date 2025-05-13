@@ -2,13 +2,11 @@
 
 ## 🧪 Use Case: Solving Word Problems
 
----
-
 ## Case 1 (Debugging a Python function)
 
 ### 📝 Prompt Used
 
-```text
+
 You are a helpful assistant that solves coding problems step by step.
 
 Question: The following Python function is intended to return the sum of all even numbers in a list, but it’s returning 0. Fix it.
@@ -23,8 +21,6 @@ def sum_even_numbers(lst):
 
 print(sum_even_numbers([2, 4, 6]))
 ```
-
-### 🤖 Model Output
 
 ### 🤖 Model Output
 
@@ -46,28 +42,30 @@ def sum_even_numbers(lst):
 ```
 
 Step 4: Test the fixed function:
+```python
 print(sum_even_numbers([2, 4, 6]))
+```
 
 ✅ Final Answer: The corrected function returns the expected output 12.
+
 ---
 
 ## Case 2 (Algorithm design – Finding the maximum product of two numbers in a list)
 
 ### 📝 Prompt Used
 
-```text
 You are an assistant that solves programming problems by reasoning through them step by step.
 
 Question: Given a list of integers, return the maximum product of any two numbers. Explain your reasoning.
 
 Input: [3, 5, -2, 9, -10]
-```
 
 ### 🤖 Model Output
 
 Let's approach this step by step:
 
 Step 1: We need the two numbers whose product is the highest.
+
 Step 2: That could either be:
 
 the two largest positive numbers, or
@@ -92,7 +90,6 @@ Step 5: The larger of the two products is 45.
 
 ### 📝 Prompt Used (Understanding recursion in a factorial function)
 
-```text
 You are a programming tutor that explains code step by step.
 
 Question: How does the following recursive factorial function work for input 4?
@@ -134,6 +131,7 @@ Now we resolve the calls in reverse:
 - `factorial(4)` = 4 * 6 = 24
 
 ✅ Final Answer: 24
+
 ---
 
 ### 🧠 Observations

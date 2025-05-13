@@ -23,14 +23,19 @@ This repository is part of my initiative to become **job-ready in Prompt Enginee
 ## 📚 Structure
 
 📁 chain-of-thought/
+
+├── code-problems.md
+
+├── definition.md
+
 ├── word-problems.md
-├── logic-puzzle.md
-├── code-reasoning.md
 
 📁 few-shot/
+
 ├── blog-title-generator.md
 
 📁 react/
+
 ├── document-analysis.md
 
 ...more coming soon!
