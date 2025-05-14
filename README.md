@@ -22,37 +22,13 @@ This repository is part of my initiative to become **job-ready in Prompt Enginee
 
 ## 📚 Structure
 
-📁 chain_of_thought/
-
-├── code_problems.md
-
-├── definition.md
-
-├── logic_problems.md
-
-├── word_problems.md
-
-📁 react/
-
-├── data_analysis_problems.md
-
-├── definition.md
-
-├── interactive_queries.md
-
-📁 shot_prompting/
-
-├── 📁 few_shot/
-
-    ├── definition.md
-
-├── 📁 one_shot/
-
-    ├── definition.md
-
-├── 📁 zero_shot/
-
-    ├── definition.md
+| Prompt Pattern       | Description                                 | Docs Link                                             |
+|----------------------|---------------------------------------------|-------------------------------------------------------|
+| Chain of Thought     | Ask model to explain thought process        | [View Docs](./chain_of_thought/definition.md)         |
+| ReAct                | Model pauses to Reason and then Act         | [View Docs](./react/definition.md)                    |
+| Zero Shot            | Asking questions without giving any examples| [View Docs](./shot_prompting/zero_shot/definition.md) |
+| One Shot             | Asking questions while giving one examples  | [View Docs](./shot_prompting/one_shot/definition.md)  |
+| Few Shot             | Asking questions by giving few examples     | [View Docs](./shot_prompting/few_shot/definition.md)  |
 
 ...more coming soon!
 
