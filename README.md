@@ -30,6 +30,10 @@ This repository is part of my initiative to become **job-ready in Prompt Enginee
 | One Shot             | Asking questions while giving one examples     | [View Docs](./shot_prompting/one_shot/definition.md)  |
 | Few Shot             | Asking questions by giving few examples        | [View Docs](./shot_prompting/few_shot/definition.md)  |
 | Flipped Interation   | Urging model to ask questions before asnwering | [View Docs](./flipped_interaction/definition.md)      |
+| Tree of Thought      | Model generate multiple branches to choose one | [View Docs](./tree_of_thought/definition.md)          |
+| Auto-CoT             | Automate the chain of thought in model         | [View Docs](./auto_cot/definition.md)                 |
+| Self-Consistency     | Model generate multiple answers to choose best | [View Docs](./self_consistency/definition.md)         |
+| Plan and Solve       | Model plans the solution before executing      | [View Docs](./plan_and_solve/definition.md)           |
 
 ...more coming soon!
 
